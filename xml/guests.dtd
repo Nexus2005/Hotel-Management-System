@@ -1,0 +1,9 @@
+<!ELEMENT hotel_guests (guest+)>
+<!ELEMENT guest (name, mobile, email, address, id_proof, total_bookings)>
+<!ATTLIST guest id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT mobile (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT id_proof (#PCDATA)>
+<!ELEMENT total_bookings (#PCDATA)>

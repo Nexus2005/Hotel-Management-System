@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="guests.xsl"?>
+<!DOCTYPE hotel_guests SYSTEM "guests.dtd">
+<hotel_guests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guests.xsd">
+  <guest id="G3">
+    <name>Amit Kulkarni</name>
+    <mobile>9887654321</mobile>
+    <email>amit@gmail.com</email>
+    <address>Mumbai</address>
+    <id_proof>IJKL9012</id_proof>
+    <total_bookings>1</total_bookings>
+  </guest>
+  <guest id="G2">
+    <name>Priya Deshmukh</name>
+    <mobile>9765432108</mobile>
+    <email>priya@gmail.com</email>
+    <address>Pune</address>
+    <id_proof>EFGH5678</id_proof>
+    <total_bookings>1</total_bookings>
+  </guest>
+  <guest id="G1">
+    <name>Rahul Sharma</name>
+    <mobile>9823456781</mobile>
+    <email>rahul@gmail.com</email>
+    <address>Nashik</address>
+    <id_proof>ABCD1234</id_proof>
+    <total_bookings>1</total_bookings>
+  </guest>
+  <guest id="G4">
+    <name>Sneha Joshi</name>
+    <mobile>9654321078</mobile>
+    <email>sneha@gmail.com</email>
+    <address>Nashik</address>
+    <id_proof>MNOP3456</id_proof>
+    <total_bookings>0</total_bookings>
+  </guest>
+  <guest id="G5">
+    <name>Vikram Naik</name>
+    <mobile>9543210987</mobile>
+    <email>vikram@gmail.com</email>
+    <address>Aurangabad</address>
+    <id_proof>QRST7890</id_proof>
+    <total_bookings>0</total_bookings>
+  </guest>
+</hotel_guests>
