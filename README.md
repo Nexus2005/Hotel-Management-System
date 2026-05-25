@@ -120,3 +120,5 @@ Use the following credentials to access the panel immediately after database imp
 - **Password Encryption**: All password entries are encrypted using `password_hash()` (Bcrypt algorithm).
 - **Git Protection**: `config/db.php` is listed in `.gitignore` to prevent developers from accidentally pushing root passwords to public version control systems.
 - **SQL Injection Prevention**: Queries are executed using PDO Prepared Statements.
+
+hotel-management-system, web-technology, wt-project, php, xampp, angularjs, javascript, mysql, full-stack, apache-server, single-page-application, crud-application, sppu, mumbai-university, btech-project, college-lab gym-management-system, fitness-management, web-technology, wt-project, php, xampp, angularjs, javascript, mysql, full-stack, apache-server, single-page-application, crud-application, sppu, mumbai-university, te-project, college-lab
